@@ -1,0 +1,11 @@
+:root {
+  --dark-gray-clr: #242833;
+  --light-gray-clr: #BCC2CE;
+  --beige-clr: #F7F0E8;
+  --orange-clr: #FF855A;
+  --green-clr: #6BAB70;
+}
+
+body {
+	background: var(--dark-gray-clr);
+}
